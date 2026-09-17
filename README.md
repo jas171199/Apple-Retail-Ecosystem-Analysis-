@@ -144,6 +144,3 @@ Through this project, I gained practical experience in:
 A special thanks to **Sir Sajjad Manzoor Mir** for his guidance, teaching, and encouragement throughout the learning process and for motivating us to learn by building practical projects.
 
 ---
-
-⭐ **If you find this project useful, feel free to explore the repository.**
-
